@@ -1,6 +1,7 @@
 University: [ITMO University](https://itmo.ru/ru/) Faculty: [FTMI](https://ftmi.itmo.ru/) Course: [Cloud platforms as the basis of technology entrepreneurship](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/) Year: 2023/2024 Group: U4125 Author: Konstantinidi Mariya Georgievna Lab: Lab2 Date of create: 03.05.2024 Date of finished: 03.05.2024
 
-# Отчет по результатам лабораторной работы2
+# Отчет по лабораторной работе №2 "Исследование Cloud Run"
+
 
 ## 1. Нажимаю на кнопку create service и создаю клауд ран с минимальной конфигурацией.
 <img width="1414" alt="Снимок экрана 2024-05-03 в 17 25 31" src="https://github.com/Mariya93/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-Konstantinidi_m_g/assets/8456559/00526ccb-4a5c-4a1a-a6e4-48827a69ee30">
