@@ -8,7 +8,7 @@ Lab: Lab1
 Date of create: 16.04.2024
 Date of finished: 
 
-Отчет по итогам лабораторной1
+# Отчет по лабораторной работе №1 "Обзор Google Cloud и исследование основных сервисов."
 
 Создана виртуальная машина
 <img width="1161" alt="Снимок экрана 2024-04-19 в 18 32 29" src="https://github.com/Mariya93/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-Konstantinidi_m_g/assets/8456559/25727891-2cfa-4e81-9540-6940b747a683">
