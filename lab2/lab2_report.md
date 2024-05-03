@@ -1,4 +1,4 @@
-Вуз: Университет ИТМО Факультет: FTMI Курс: Облачные платформы как основа технологического предпринимательства ДОБАВИТЬ ссылку Год: 2023/2024 Группа: U4125 Автор: Константиниди Мария Георгиевна Лаборатория: Лаб2 Дата создания: 03.05.2024 Дата окончания:
+University: ITMO University Faculty: FTMI Course: Cloud platforms as the basis of technology entrepreneurship ADD link Year: 2023/2024 Group: U4125 Author: Konstantinidi Mariya Georgievna Lab: Lab1 Date of create: 03.05.2024 Date of finished:
 
 # Отчет по результатам лабораторной работы2
 
