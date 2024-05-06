@@ -32,16 +32,19 @@ University: ITMO University Faculty: FTMI Course: Cloud platforms as the basis o
 ### На начальном этапе работы (при численности до 50 сотрудников)
 - Virtual Machine: e2-micro 0.25-2 vCPU 1 GB memory - около 2$
 - SQL Cloud: PostgreSQL 1 vCPU 0.6 GB memory - около 14$
+  
 Итого - порядка 16$
 
 ### Тестирование партнерами, например, доп офисами или другими командами в рамках одного юнита (до 150 сотрудников)
 - Virtual Machine: e2-small 0.5-2 vCPU 2 GB memory - около 4$
 - SQL Cloud: PostgreSQL 1 vCPU 1.7 GB memory - около 31$
+  
 Итого - порядка 35$
 
 ### Продовое решение, когда раскатываем на всю компанию (от 200 сотрудников)
 - Virtual Machine: e2-medium 1-2 vCPU 4 GB memory - около 7$
 - SQL Cloud: PostgreSQL 1 vCPU 3.75 GB memory - около 65$
+  
 Итог - порядка 72$
 
 
