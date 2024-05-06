@@ -1,1 +1,1 @@
-
+University: ITMO University Faculty: FTMI Course: Cloud platforms as the basis of technology entrepreneurship ADD link Year: 2023/2024 Group: U4125 Author: Konstantinidi Mariya Georgievna Lab: Lab1 Date of create: 06.05.2024 Date of finished:06.05.2024
